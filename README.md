@@ -1,4 +1,4 @@
-# 🧠 Multilayer Perceptron (MLP) for FashionMNIST: A Comparative Study
+# Multilayer Perceptron (MLP) for FashionMNIST: A Comparative Study
 
 ## Project Overview
 
